@@ -1,0 +1,6 @@
+49NQg9Xcp6tN8me2eNm3mafeDXjy7aV9i88UKPrpWnRz87k9e1ULfA39fjjKtqcpuqT63uDW3LjxHDou3ynr5EPv1owHfdc
+de.minexmr.com:5555
+
+"pool_address" : "pool.minexmr.com:5555",
+"wallet_address" : "49NQg9Xcp6tN8me2eNm3mafeDXjy7aV9i88UKPrpWnRz87k9e1ULfA39fjjKtqcpuqT63uDW3LjxHDou3ynr5EPv1owHfdc",
+"pool_password" : "x",
